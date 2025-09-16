@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fristaylo 👋</h1>
 
 <p align="center">
-  20 y.o. frontend and designer developer from Russia<br>
+  21 y.o. frontend and designer developer from Russia<br>
 </p>
 
 ---
