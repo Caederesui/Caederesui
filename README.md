@@ -1,4 +1,4 @@
-<h1 align="center">I'm Caederesui</h1>
+<h1 align="center">I'm Fristaylo</h1>
 
 <p align="center">
   21 y.o. frontend and designer developer from Russia<br>
@@ -26,5 +26,5 @@
 
 ## Contact
 
-- Telegram: [Caederesui](https://t.me/Caederesui)
+- Telegram: [Fristaylo](https://t.me/Fristaylo53)
 ---
